@@ -4,5 +4,6 @@
         <page name='Introduction'/>
         <page name='Linear Algebra'/>
         <page name='Statistics'/>
+        <page name='Probability'/>
     </pages>
 </playground>
