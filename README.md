@@ -11,3 +11,4 @@ This is a work in progress. It's organized as Swift playground with a playground
 5. Statistics
 6. Probability
 7. Hypothesis and Inference
+8. Gradient Descent

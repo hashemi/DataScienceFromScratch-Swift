@@ -6,5 +6,6 @@
         <page name='Statistics'/>
         <page name='Probability'/>
         <page name='Hypothesis and Inference'/>
+        <page name='Gradient Descent'/>
     </pages>
 </playground>
