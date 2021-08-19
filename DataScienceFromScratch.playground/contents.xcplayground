@@ -7,5 +7,6 @@
         <page name='Probability'/>
         <page name='Hypothesis and Inference'/>
         <page name='Gradient Descent'/>
+        <page name='Machine Learning'/>
     </pages>
 </playground>

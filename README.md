@@ -14,3 +14,4 @@ This is a work in progress. It's organized as Swift playground with a playground
 8. Gradient Descent
 9. ~~Getting Data~~ (no Swift code)
 10. ~~Working With Data~~ (no Swift code)
+11. Machine Learning
