@@ -9,5 +9,6 @@
         <page name='Gradient Descent'/>
         <page name='Machine Learning'/>
         <page name='k-Nearest Neighbors'/>
+        <page name='Naive Bayes'/>
     </pages>
 </playground>

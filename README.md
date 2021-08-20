@@ -16,3 +16,4 @@ This is a work in progress. It's organized as Swift playground with a playground
 10. ~~Working With Data~~ (no Swift code)
 11. Machine Learning
 12. k-Nearest Neighbors
+13. Naive Bayes
