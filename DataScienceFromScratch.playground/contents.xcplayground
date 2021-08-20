@@ -8,5 +8,6 @@
         <page name='Hypothesis and Inference'/>
         <page name='Gradient Descent'/>
         <page name='Machine Learning'/>
+        <page name='k-Nearest Neighbors'/>
     </pages>
 </playground>
