@@ -10,5 +10,6 @@
         <page name='Machine Learning'/>
         <page name='k-Nearest Neighbors'/>
         <page name='Naive Bayes'/>
+        <page name='Simple Linear Regression'/>
     </pages>
 </playground>
