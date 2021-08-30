@@ -18,3 +18,4 @@ This is a work in progress. It's organized as Swift playground with a playground
 12. k-Nearest Neighbors
 13. Naive Bayes
 14. Simple Linear Regression
+15. Multiple Regression
